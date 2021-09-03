@@ -1,0 +1,67 @@
+@media (max-width : 1000px) {
+  .ulnav {
+    display: none;
+  }
+
+  .burger {
+    display: block;
+    margin-top: 21px;
+    margin-right: 5px;
+    font-size: 40px;
+  }
+
+  .sear {
+    display: none;
+  }
+
+  .divnav {
+    margin-left: 40px;
+  }
+
+  .divinput {
+    margin: 0 auto;
+    margin-top: 70px;
+  }
+
+  .footerul {
+    margin-right: 10px;
+  }
+
+  .footerlogo {
+    margin-left: 40px;
+  }
+
+  .footerul {
+    margin-left: 40px;
+  }
+
+  .footerfb {
+    display: none;
+  }
+}
+
+@media (max-width : 600px) {
+  .ulnav {
+    display: none;
+  }
+
+  .burger {
+    display: block;
+    margin-top: 21px;
+    margin-right: 5px;
+    font-size: 40px;
+  }
+
+  .sear {
+    display: none;
+  }
+
+  .divnav {
+    margin-left: 40px;
+  }
+
+  .divinput {
+    margin: 0 auto;
+    margin-top: 70px;
+  }
+}

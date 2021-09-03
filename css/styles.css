@@ -1,0 +1,185 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+.mainbody {
+  margin-top: 52px;
+}
+
+.divnav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-left: 140px;
+}
+
+.ulnav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 21px;
+  margin-left: 600px;
+  font-family: 'Lato', sans-serif;
+}
+
+.ulnav li {
+  margin-right: 70px;
+  font-size: 20px;
+  color: #707070;
+}
+
+.sear {
+  margin-top: 21px;
+  margin-right: 142px;
+}
+
+/* section */
+.sect1 {
+  max-width: 1640px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 65px;
+}
+
+.banner {
+  max-width: 1640px;
+  width: 100%;
+}
+
+.burger {
+  display: none;
+}
+
+.text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.input1 {
+  width: 100%;
+  max-width: 730px;
+  height: 40px;
+}
+
+.hoverin:hover {
+  -webkit-box-shadow: 2px 2px 2px 2px white;
+          box-shadow: 2px 2px 2px 2px white;
+}
+
+.hoverin2:hover {
+  -webkit-box-shadow: 2px 2px 2px 2px black;
+          box-shadow: 2px 2px 2px 2px black;
+}
+
+.divinput {
+  max-width: 750px;
+  width: 100%;
+  margin-left: 230px;
+  margin-top: 49px;
+}
+
+.input2 {
+  height: 112px;
+  max-width: 730px;
+  width: 100%;
+  margin-top: 12px;
+}
+
+.send {
+  max-width: 150.93px;
+  width: 100%;
+  height: 52.24px;
+  margin-top: 40px;
+  color: white;
+  background-color: #2E2E2E;
+  font-size: 21px;
+}
+
+.label {
+  margin-bottom: 12px;
+  margin-top: 12px;
+  margin-left: 30px;
+  font-size: 23px;
+  font-family: 'Lato', sans-serif;
+}
+
+.textarea1 {
+  max-width: 731.42px;
+  width: 100%;
+  height: 120px;
+  margin-top: 12px;
+}
+
+.tin {
+  margin-bottom: 12px;
+}
+
+/* footer */
+.footerclass {
+  margin-top: 222px;
+  background-color: #2E2E2E;
+  max-width: 1920px;
+  width: 100%;
+  height: 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.footerlogo {
+  margin-left: 140px;
+  margin-top: 56px;
+  margin-bottom: 56px;
+}
+
+.footerul {
+  margin-left: 374px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-top: 60px;
+  margin-right: 200px;
+  font-family: 'Lato', sans-serif;
+}
+
+.footerul li {
+  color: #F2F2F2;
+  margin-bottom: 4px;
+}
+
+.addressf {
+  margin-top: 68px;
+  font-family: 'Lato', sans-serif;
+}
+
+.colorf {
+  color: #FFFFFF;
+}
+
+.contactfo {
+  font-size: 18px;
+}
+
+.footerfb {
+  margin-top: 56px;
+  margin-right: 140px;
+  margin-left: 295px;
+}
